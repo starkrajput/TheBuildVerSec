@@ -1,0 +1,96 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/"
+    },
+    {
+      "src": "/webapp",
+      "dest": "/"
+    },
+    {
+      "src": "/mobileapp",
+      "dest": "/"
+    },
+    {
+      "src": "/softwareapp",
+      "dest": "/"
+    },
+    {
+      "src": "/ai-solution",
+      "dest": "/"
+    },
+    {
+      "src": "/ml-solution",
+      "dest": "/"
+    },
+    {
+      "src": "/saas-development",
+      "dest": "/"
+    },
+    {
+      "src": "/iiot-iot-solution",
+      "dest": "/"
+    },
+    {
+      "src": "/managed-services",
+      "dest": "/"
+    },
+    {
+      "src": "/cloud-integration",
+      "dest": "/"
+    },
+    {
+      "src": "/enterprise-solution",
+      "dest": "/"
+    },
+    {
+      "src": "/ondemand-service",
+      "dest": "/"
+    },
+    {
+      "src": "/TransportationLogistics",
+      "dest": "/"
+    },
+    {
+      "src": "/BankingFinance",
+      "dest": "/"
+    },
+    {
+      "src": "/TravelHospitality",
+      "dest": "/"
+    },
+    {
+      "src": "/Realestate",
+      "dest": "/"
+    },
+    {
+      "src": "/Legal",
+      "dest": "/"
+    },
+    {
+      "src": "/Healthcare",
+      "dest": "/"
+    },
+    {
+      "src": "/EducationeLearning",
+      "dest": "/"
+    },
+    {
+      "src": "/MediaEntertainment",
+      "dest": "/"
+    },
+    {
+      "src": "/RetailECommerce",
+      "dest": "/"
+    },
+    {
+      "src": "/About",
+      "dest": "/"
+    },
+    {
+      "src": "/Leadership",
+      "dest": "/"
+    }
+  ]
+}
